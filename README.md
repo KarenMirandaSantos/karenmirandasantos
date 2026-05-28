@@ -62,13 +62,7 @@ Atualmente, venho aprimorando minhas habilidades em programação, suporte técn
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenMirandaSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMirandaSantos&layout=compact&langs_count=6&theme=radical"/>
-
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarenMirandaSantos&show_icons=true&theme=tokyonight"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMirandaSantos&layout=compact&theme=tokyonight"/> </div>
 
 
 #
